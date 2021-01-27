@@ -7,9 +7,9 @@ imageName: "screenshot.jpg"
 
 At this time, I am preparing the forum. So please feel free to test. But be prepared for broken links and other unfinished features.
 
-##Features Completed
+## Features Completed
 
-##Features In Progress
+## Features In Progress
 - Website Configuration
 - Domain deployment
 - Basic Q+A
